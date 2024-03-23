@@ -39,3 +39,7 @@ pretrained_vgg = models.vgg16(pretrained=True)
 
 The original VGG architecture was introduced in the following research paper:
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
