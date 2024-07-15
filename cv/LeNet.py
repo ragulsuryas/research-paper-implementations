@@ -40,3 +40,5 @@ if __name__ == "__main__":
     x = torch.rand((32, 1, 32, 32)).to(device)
     y = model(x)
     print(y.shape)
+    total_params = sum(p.numel() for p in model.parameters())
+    print(f"Total number of parameters: {total_params}")
