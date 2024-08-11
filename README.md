@@ -1,6 +1,6 @@
 # Research Paper Implementation
 
-This repository contains implementations of various research papers in the fields of Computer Vision (CV) and Natural Language Processing (NLP).
+This repository contains implementations of various research papers in the fields of Computer Vision (cv) and Natural Language Processing (nlp).
 
 ## Directories
 
